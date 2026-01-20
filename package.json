@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-identity-provider-control",
+  "version": "0.1.0",
+  "description": "WebWaka identity-provider suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
